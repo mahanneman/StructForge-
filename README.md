@@ -50,3 +50,11 @@ pip install pyinstaller
 pyinstaller --onefile --windowed --name="StructForge" structforge.py
 The .exe will be in the dist/ folder.
 فایل .exe در پوشه‌ی dist/ قرار می‌گیرد.
+
+🤝 Contributing / مشارکت
+Issues, suggestions, and pull requests are welcome!
+Open an issue
+
+👤 Creator / تهیه‌کننده
+MA.AD.GH
+GitHub: @mahanneman
